@@ -9,8 +9,8 @@ I am 18 Y.O Programmer/Student From India 🇮🇳.
 ---
 ## My Projects
 
-- <a href="https://github.com/AJTimePyro/MegaUploaderbot">Mega Uploader Bot</a>
-- <a href="https://github.com/AJTimePyro/URL_Uploader_Bot">URL Uploader Bot</a>
+- <a href="https://github.com/AJPyroVerse/MegaUploaderbot">Mega Uploader Bot</a>
+- <a href="https://github.com/AJPyroVerse/URL_Uploader_Bot">URL Uploader Bot</a>
 - <a href="https://github.com/AJTimePyro/PdiskUploaderBot">Pdisk Uploader Bot</a>
 - <a href="https://ajtimepyro.herokuapp.com/">My Website</a>
 - <a href="https://github.com/AJTimePyro/TranslatorBot">Translator Bot</a>
