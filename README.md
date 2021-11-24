@@ -3,7 +3,7 @@
 I am 18 Y.O Programmer/Student From India 🇮🇳.
 
 - I am Telegram Bot 🤖 developer, and Web Developer as well.
-- Currently Learning C++.
+- Currently Learning Java.
 - Looking for collabration 💪.
 
 ---
@@ -12,8 +12,9 @@ I am 18 Y.O Programmer/Student From India 🇮🇳.
 - <a href="https://github.com/AJTimePyro/MegaUploaderbot">Mega Uploader Bot</a>
 - <a href="https://github.com/AJTimePyro/URL_Uploader_Bot">URL Uploader Bot</a>
 - <a href="https://github.com/AJTimePyro/PdiskUploaderBot">Pdisk Uploader Bot</a>
-- <a href="https://ajtimepyro.herokuapp.com/">My Website</a>
+- <a href="https://ajtimepyro.gq">My Website</a>
 - <a href="https://github.com/AJTimePyro/TranslatorBot">Translator Bot</a>
+- <a href="https://github.com/AJTimePyro/RequestTrackerBot">Request Tracker Bot</a>
 
 ---
 ## Where to find me
