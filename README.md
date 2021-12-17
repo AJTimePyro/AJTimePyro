@@ -15,6 +15,7 @@ I am 18 Y.O Programmer/Student From India 🇮🇳.
 - <a href="https://ajtimepyro.gq">My Website</a>
 - <a href="https://github.com/AJTimePyro/TranslatorBot">Translator Bot</a>
 - <a href="https://github.com/AJTimePyro/RequestTrackerBot">Request Tracker Bot</a>
+- <a href="https://github.com/AJTimePyro/Crunchyroll-Account-Checker">Crunchyroll Account Checker</a>
 
 ---
 ## Where to find me
