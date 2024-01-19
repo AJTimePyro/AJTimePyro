@@ -33,9 +33,3 @@ I am 20 Y.O Solo Developer from India 🇮🇳, and want to create a team of dev
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajtimepyro&bg_color=00000000&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
----
-![AJTimePyro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajtimepyro&show_icons=true&theme=algolia)
-
