@@ -3,7 +3,7 @@
 I am 20 Y.O Solo Developer from India 🇮🇳, and want to create a team of developers for developing something interesting as well as useful.
 
 ## Techincal Skills
-- 🌐 FullStack Web Developer (ReactJS, ExpressJS, Flask, TailwindCSS, MongoDB, MySQL)
+- 🌐 FullStack Web Developer (NextJS, ReactJS, ExpressJS, Flask, TailwindCSS, MongoDB, MySQL)
 - 🤖 Telegram Bot Developer (Pyrogram, Telethon)
 - 🐍 Python Scripting and Automation
 
