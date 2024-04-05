@@ -1,4 +1,4 @@
-# Hi, I'm Abhijeet Gupta a.k.a AJTimePyro👨‍💻 <img src="https://komarev.com/ghpvc/?username=AJTimePyro&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
+# Hi, I'm Abhijeet Gupta a.k.a AJTimePyro👨‍💻 <img src="https://komarev.com/ghpvc/?username=ajtimepyro" />
 
 20 Y.O Solo Developer from India 🇮🇳.
 
