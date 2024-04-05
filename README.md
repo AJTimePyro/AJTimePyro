@@ -1,6 +1,6 @@
 # Hi, I'm Abhijeet Gupta a.k.a AJTimePyro👨‍💻 <img src="https://komarev.com/ghpvc/?username=AJTimePyro&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
 
-I am 20 Y.O Solo Developer from India 🇮🇳, and want to create a team of developers for developing something interesting as well as useful.
+20 Y.O Solo Developer from India 🇮🇳.
 
 ## Techincal Skills
 - 🌐 FullStack Web Developer (NextJS, ReactJS, ExpressJS, Flask, TailwindCSS, MongoDB, MySQL)
@@ -13,8 +13,7 @@ I am 20 Y.O Solo Developer from India 🇮🇳, and want to create a team of dev
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajtimepyro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtimepyro/)
 
----
-### Languages and Tools I Use:
+## Languages and Tools I Use:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,3 +32,6 @@ I am 20 Y.O Solo Developer from India 🇮🇳, and want to create a team of dev
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Top Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajtimepyro&layout=pie)
